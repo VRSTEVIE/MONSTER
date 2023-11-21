@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hoonicorn- A tribute to Ken Block
+* source:	https://sketchfab.com/3d-models/hoonicorn-a-tribute-to-ken-block-e645466636304e5c86e91103608aed38
+* author:	Chaserfan (https://sketchfab.com/Chaserfan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hoonicorn- A tribute to Ken Block" (https://sketchfab.com/3d-models/hoonicorn-a-tribute-to-ken-block-e645466636304e5c86e91103608aed38) by Chaserfan (https://sketchfab.com/Chaserfan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
